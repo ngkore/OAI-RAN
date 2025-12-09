@@ -174,7 +174,7 @@ cd ~/openairinterface5g/cmake_targets/ran_build/build
 sudo ./nr-uesoftmodem -r 32 --numerology 3 --band 257 -C 27533280000 --uicc0.imsi 001010000000001 --ssb 72 --rfsim
 ```
 
-## End-to-End Connectivity Test
+#### End-to-End Connectivity Test
 
 Ping test from the UE host to the CN5G
 
